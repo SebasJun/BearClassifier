@@ -1,7 +1,7 @@
 # BearClassifier
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SebasJun/BearClassifier/HEAD)
 
-Image classifier to determine images on grizzly bears and teddy bears. Modell trained through a convolutional neural network as part of Practical Deep Learning for Coders course (https://course.fast.ai/). 
+Image classifier to categorize images on grizzly bears and teddy bears. Modell trained through a convolutional neural network as part of Practical Deep Learning for Coders course (https://course.fast.ai/). 
 
 App hosted on Binder (https://mybinder.org/) 
 
